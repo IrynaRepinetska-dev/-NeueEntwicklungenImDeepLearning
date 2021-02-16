@@ -1,2 +1,2 @@
-# -NeueEntwicklungenImDeepLearning
+# NeueEntwicklungenImDeepLearning
 university porject
